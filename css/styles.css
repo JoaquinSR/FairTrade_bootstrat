@@ -88,15 +88,14 @@ text-align: center;
 .tradeText{
   display: flex;
   width: 100%;
-  justify-content: space-around;
+  justify-content: center;
   margin: auto;
   text-decoration: none;
 }
 .parent-grid {
-  display: flex;
   width: 100%;
   background-color: white;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .grid-container {
   display: inline-grid;
